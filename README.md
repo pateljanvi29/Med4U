@@ -1,6 +1,3 @@
-# Med4U
-Med4U is a modern web app for managing personal medical records, uploading and summarizing lab reports, and visualizing health trends. It features secure authentication, AI-powered OCR and summarization, and a beautiful, responsive UI.
-
 # 🩺 Med4U – Medical Records & Lab Report Summarizer
 
 ![License](https://img.shields.io/badge/license-MIT-green)
